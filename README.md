@@ -1,0 +1,1 @@
+# OpenShift Subscription Injection Webhook
