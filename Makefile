@@ -26,8 +26,8 @@ test: ## Run unit tests. Example: make test
 .PHONY: test
 
 verify: ## Run verifications. Example: make verify
-	go vet ./cmd/... ./pkg/...
-	gofmt -w ./cmd/ ./pkg/
+	go vet ./cmd/...
+	gofmt -w ./cmd/
 .PHONY: verify
 
 build:  ## Build all executables. Example: make build
