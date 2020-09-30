@@ -1,1 +1,1 @@
-# OpenShift Subscription Injection Webhook
+# Red Hat Subscription Injection Webhook
